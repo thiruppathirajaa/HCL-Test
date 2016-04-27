@@ -1,3 +1,2 @@
 # HCL-Test
-HCL-Test
-Edited the branch1 file for testing purpose.
+2nd time edited the branch1 file for testing purpose.
